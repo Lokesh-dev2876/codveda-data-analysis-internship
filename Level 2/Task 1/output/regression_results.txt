@@ -1,0 +1,7 @@
+Level 2 - Task 1: Regression Analysis
+
+Dataset: House Prediction
+Target: House Price
+
+R-squared: 0.6522
+Mean Squared Error: 19.3790
