@@ -1,0 +1,12 @@
+Level 3 – Task 1: Classification (Churn Prediction)
+
+Accuracy: 0.8596
+
+              precision    recall  f1-score   support
+
+       False       0.88      0.97      0.92       455
+        True       0.56      0.23      0.32        79
+
+    accuracy                           0.86       534
+   macro avg       0.72      0.60      0.62       534
+weighted avg       0.83      0.86      0.83       534
